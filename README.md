@@ -4,3 +4,7 @@ This program measures RTT from your terminal to sites which has v4 and v6 addres
 * Python3.5
 * pip packages
 	* ipaddress
+
+## ToDo List
+* speed up by parallel processing
+* add analysis programs for measurement results
